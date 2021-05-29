@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f27d0dae3cce2ee4da1d26e3d4dc444e, type: 3}
+  m_Name: UnitsAnimationReferences
+  m_EditorClassIdentifier: 
+  animationReferences:
+  - Model: {fileID: 1484382792511628929, guid: 6755936e94fcb43489baebce094356e6, type: 3}
+    PhotonViewModel: {fileID: 1484382792511628929, guid: 2c00d70917d136e4283ab56fcaa59fd4,
+      type: 3}
+    AnimID: 1
+  - Model: {fileID: 7521711379251036129, guid: a93f0448fd0a00a4ba273e9f33b4d1a3, type: 3}
+    PhotonViewModel: {fileID: 7521711379251036129, guid: 02e5e139660fbc142a82f53a863e74e2,
+      type: 3}
+    AnimID: 2
